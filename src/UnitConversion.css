@@ -1,0 +1,27 @@
+.active {
+  font-weight: 250;
+  cursor: pointer;
+}
+
+.celsius,
+.fahrenheit {
+  display: inline;
+  font-weight: 500;
+}
+
+.temperature-scales,
+.celsius-link,
+.fahrenheit-link {
+  color: violet;
+  text-decoration: none;
+}
+
+.current-temp {
+  display: inline;
+}
+
+.humidity,
+.wind {
+  font-weight: 250;
+  font-size: 12px;
+}
