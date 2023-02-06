@@ -3,9 +3,9 @@ import CurrentDate from "./CurrentDate";
 import UnitConversion from "./UnitConversion";
 import "./CurrentWeather.css";
 
-export default function WeatherResults(props) {
+export default function CurrentWeather(props) {
   return (
-    <div className="WeatherResults">
+    <div className="CurrentWeather">
       <div className="row current-stats">
         <div className="col-1 icon">
           <img
